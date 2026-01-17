@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#1d2671"></rect>
+  <line x1="33" y1="15" x2="33" y2="85" stroke="white" stroke-width="6"></line>
+  <line x1="66" y1="15" x2="66" y2="85" stroke="white" stroke-width="6"></line>
+  <line x1="15" y1="33" x2="85" y2="33" stroke="white" stroke-width="6"></line>
+  <line x1="15" y1="66" x2="85" y2="66" stroke="white" stroke-width="6"></line>
+  <text x="20" y="28" font-size="28" fill="#ffcc00">X</text>
+  <text x="55" y="78" font-size="28" fill="#ffcc00">O</text>
+</svg>
